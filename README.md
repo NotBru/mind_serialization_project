@@ -33,8 +33,7 @@ Welcome to Bru's Mind Serialization Project! I hope we all have a safe trip.
 
 # Beliefs
 
-## 1. There is a working mechanism to the universe that is unchangeable by any \
-of its parts.
+## 1. There is a working mechanism to the universe that is unchangeable by any of its parts.
 
 A good example of such a situation would be if the universe was completely
 defined by a Newtonian model. It would be defined by Newton's laws, say, “Force
