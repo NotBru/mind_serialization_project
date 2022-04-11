@@ -33,7 +33,7 @@ Welcome to Bru's Mind Serialization Project! I hope we all have a safe trip.
 
 # Beliefs
 
-## 1. There is a working mechanism to the universe that is unchangeable by any of its parts.
+## Axiom 1: There is a working mechanism to the universe that is unchangeable by any of its parts.
 
 A good example of such a situation would be if the universe was completely
 defined by a Newtonian model. It would be defined by Newton's laws, say, “Force
@@ -50,18 +50,18 @@ change the fact that they do limit what we can say happens. We can't say a
 planet isn't orbiting the sun. We can't say dopamine doesn't do what we know it
 does do.
 
-## 2. Human behaviour is ultimately deterministic.
+## Consequence 2: Human behaviour is ultimately deterministic.
 
-### (From 1)
+### From [axiom 1](#axiom-1-there-is-a-working-mechanism-to-the-universe-that-is-unchangeable-by-any-of-its-parts)
 
 Whatever rules they be. Electrons do as electrons do, and there's no sense to
 claiming otherwise. And we, humans, aren't an exception. We may be complex, hard
 to model or predict, but we aren't above it all, and there's always a mechanism
 behind us doing as we do.
 
-## 3. We have some degree of control
+## Nuance 3: We have some degree of control
 
-### (Caveat to 2)
+### Nuance at [consequence 2](#consequence-2-human-behaviour-is-ultimately-deterministic)
 
 It is important to note however that, in a sense, we do have control over
 ourselves. Our brains, as a physical system, are strongly linked to what happens
