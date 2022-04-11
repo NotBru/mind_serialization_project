@@ -24,4 +24,48 @@ including morals and whatnot and, while I'm at it, maybe throw some ideas,
 insights, or questions that may hopefully appeal to someone. That's the purpose
 of this repo.
 
+This README shall contain a list of assertions and, when needed, a quantifier of
+my degree of belief in them. I shall make an effort of being explicit with
+dependencies, so that it is clear whenever I think a certain position can be
+deduced from previous ones.
+
 Welcome to Bru's Mind Serialization Project! I hope we all have a safe trip.
+
+# Beliefs
+
+## 1. There is a working mechanism to the universe that is unchangeable by any
+of its parts.
+
+A good example of such a situation would be if the universe was completely
+defined by a Newtonian model. It would be defined by Newton's laws, say, “Force
+equals mass times acceleration, ...” and a set of interaction terms that defined
+what the forces applying onto any of those particles would be. It would thus
+follow, by definition, that none of its particles would have a say on what
+really happens to them.
+
+Now, the universe sure as hell doesn't follow Newtonian mechanics. But [we do
+have pretty successful models for reality](
+https://en.wikipedia.org/wiki/Standard_Model
+). And however faulty they may be (at unfathomably high resolution), it doesn't
+change the fact that they do limit what we can say happens. We can't say a
+planet isn't orbiting the sun. We can't say dopamine doesn't do what we know it
+does do.
+
+## 2. Human behaviour is ultimately deterministic.
+
+### (From 1)
+
+Whatever rules they be. Electrons do as electrons do, and there's no sense to
+claiming otherwise. And we, humans, aren't an exception. We may be complex, hard
+to model or predict, but we aren't above it all, and there's always a mechanism
+behind us doing as we do.
+
+## 3. We have some degree of control
+
+### (Caveat to 2)
+
+It is important to note however that, in a sense, we do have control over
+ourselves. Our brains, as a physical system, are strongly linked to what happens
+to us as a whole. They are influenced by our environment, and they influence it
+back. What's more, it has a very noticeable degree of self maleability, meaning
+we are able to change habits and react to changes in our world views.
