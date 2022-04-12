@@ -34,10 +34,10 @@ Feel free to skip to the [beliefs](#beliefs) section.
 
 ## Structure of this repo
 
-╾┮ [Introduction](#brus-mind-serialization-project)  
- ├─╼ [Structure](#structure-of-this-repo)  
- ├─╼ [Contributing](#contributing)  
- ╰─╼ [Beliefs](#beliefs)
+┌ [Introduction](#brus-mind-serialization-project)  
+├─ [Structure](#structure-of-this-repo)  
+├─ [Contributing](#contributing)  
+└─ [Beliefs](#beliefs)
 
 ## Contributing
 
