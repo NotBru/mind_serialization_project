@@ -14,7 +14,7 @@ definite, and unbiased. However, that's hardly the case, for many reasons:
   ) each time new information arrives. This would be so mentally demanding and,
   for evolutive purposes, not necessarily benefical.
 * I'd hope this would be needless to say, but it isn't:
-  We have [a thousand biases](
+  We have [hundreds of biases](
   https://en.wikipedia.org/wiki/List_of_cognitive_biases
   ).
 
