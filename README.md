@@ -34,16 +34,38 @@ Feel free to skip to the [beliefs](#beliefs) section.
 
 ## Structure of this repo
 
-┌ [Introduction](#brus-mind-serialization-project)  
+┌ [Bru's Mind Serialization Project](#brus-mind-serialization-project)  
 ├─ [Structure](#structure-of-this-repo)  
 ├─ [Contributing](#contributing)  
+├─ [Definition of done](#definition-of-done)  
 └─ [Beliefs](#beliefs)
 
 ## Contributing
 
 * Feel free to make a PR.
 * Don't be insufferable. I'll be the judge of that.
-* Don't be adversarial. Let me know if you feel I'm being adversarial, or mistakenly assuming you are.
+* Don't be adversarial. Let me know if you feel I'm being adversarial, or
+  mistakenly assuming you are.
+
+## Definition of done
+
+A properly defined moral, as a set of consistent assertions and beliefs with the
+possibility of partial conviction finds its most natural expression in the
+language of [probability theory](https://bayes.wustl.edu/etj/prob/book.pdf).
+HOWEVER, even in the case where this language would suffice, I just can't quite
+get to know how sure I'm of everything. Sure I can distinguish absolute
+certainty from almost absolute, moderate certainty, and absolute uncertainty.
+But how am I to distinguish a 68% certainty from a 68.1% certainty?
+
+The process of structuring this as a Bayesian probability distribution is just
+so hard, both conceptually (like, do I even know how to properly assign my
+degrees of knowledge? and, can I formally divide the assertions in terms of the
+fundamental ones?) and in practice (do I have the time and will?). Sooo, my
+definition of done is that it serves to reproduce to a good degree my moral
+judgment making.
+
+And most importantly, I'm doing this for fun and to explore the limits of my own
+rationality. So... it needn't be completed.
 
 ## Beliefs
 
@@ -211,4 +233,6 @@ other parts, having those two connected.
 
 <!--
 Add clarification: “guilt is a Christian invention”
+Add axiom: “experimentally indistinguishable theories make no further
+contribution to the set
 -->
