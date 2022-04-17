@@ -96,10 +96,10 @@ formed all without their intervention. So at the very beginning of their
 existence, nothing about Jeremy was in control of them. Both their environment
 and their very own identity precedes *and shapes* their will.
 
-It is the case that Jeremy will then go on and grow. Taking decision as they do,
-but all those decisiones are defined by some underlying mechanism. At any given
-time, the decision happens in the brain, which has been shaped by the past and
-its environment, and all decisiones in the past have happened in the brain,
+It is the case that Jeremy will then go on and grow, making decisions as they
+do, but all those decisiones are defined by some underlying mechanism. At any
+given time, the decision happens in the brain, which has been shaped by the past
+and its environment, and all decisiones in the past have happened in the brain,
 which has been shaped by... until ultimately, it can all be traced back to a
 beginning and an environment on which Jeremy has had no opinion whatsoever.
 
