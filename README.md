@@ -131,14 +131,84 @@ Jeremy is in no control.
 Either Jeremy is Jeremy, and this defines a mechanism by which Jeremy abides, or
 Jeremy is a random force of the aether.
 
-<!--
+### Axiom 3: The universe can be explained in terms of subsystems, their self interaction and their mutual interaction
 
-Intellegibility doesn't follow from axiom 1, so it may be an axiom.
-The interaction conceptualization doesn't follow from intellegibility either, I
-think, so it may have to be another axiom.
-I believe from those, the subjectivity of morale should follow. Bring this to
-debate.
-I believe the “we are in some degree of control” requires those axioms to be
-definable, since the control we appear to have comes from looking at the brain
-as a subsystem interacting with the rest.
+Let's take for example a universe with just a planet and an orbiting moon. This
+universe can be obviously divided into two mutually exclusive subsystems, the
+aforementioned ones. We can describe the dynamics of the whole universe as a
+term describing how the planet behaves by itself, how it interacts with the
+moon, and how the moon interacts with itself.
+
+This axiom is meant to state, whenever we divide the universe into mutually
+exclusive parts, we can describe the whole dynamics in terms of how each part
+interacts with itself and with each of the rest of parts.
+
+Although not stated in the title, it is also implicit that whenever two systems
+are alike, their self-interaction dynamics are alike. And whenever two pairs
+of systems are alike, their interaction dynamics are alike too.
+
+Say, a perfect copy of something is gonna act all the same, and so forth...
+
+A more complete axiom would state “[core theory](
+https://www.atheismandthecity.com/2016/12/the-argument-from-core-theory.html
+) is sufficient to properly describe all of human experience”, and since this
+theory has the currently described axiom incorporated, it would follow. But for
+now I'd rather have the broadest possible axioms come first.
+
+### Consequence 4: Human morale is subjective
+
+#### From [axiom 3](#axiom-3-the-universe-can-be-explained-in-terms-of-subsystems-their-self-interaction-and-their-mutual-interaction)
+
+What's important from the previous axiom is that things are happening and that's
+the most objective we can get. Planets orbit each other alright, and we can
+understand that's just happening. No more, no less.
+
+But the whole deal is that even the complicated stuff is “just happening”.
+Whether we'd rather something didn't happen, say, we think badly of it... it's
+just gonna happen.
+
+#### On human morale
+
+So, you may not like a society where human sacrifices were naturalized, but
+there's no fundamental power or law forbiding those. You may, since it is
+something that can happen, intervene in order for the rest of the world to
+follow your moral understanding closer.
+
+That's what we all kinda do, actually. Since there's a good degree of agreement,
+we combine efforts to make majoritary moral understandings (as weighted by
+actual enforcing power) fulfilled. I indeed totally agree with this. But any
+claim to superiority of said morale is simply a misunderstanding of facts:
+they're “superior” simply in terms of being preferred by most people.
+
+Gross disagreements are fairly enlightening of this. Take abortion for instance.
+Currently, Argentinian votes on its legality were more or less divided at 50/50,
+and you have very large pools of population either thinking it is morally right
+or it is morally wrong. Is any one of those “more correct” than the others?
+hardly. I have a preferred stance, but I cannot claim to draw this stance from
+any objective fact of nature.
+
+### Consequence 5: There is a sense in which we do have control over ourselves
+
+#### From [axiom 3](#axiom-3-the-universe-can-be-explained-in-terms-of-subsystems-their-self-interaction-and-their-mutual-interaction)
+
+Even though [consequence 2](#consequence-2-human-behaviour-is-fundamentally-outside-of-its-control)
+clearly states that we are governed by rules that are above us, human experience
+features a notion of control. This comes from the fact that, since we experience
+the universe from within “the shell”, we don't actually know nor perceive the
+universe in its entirety. We see people (subsystems) and their interactions with
+each other and with the environment.
+
+In this interaction, we can see people's decisions making changes both to their
+environment and to themselves. It's not like we can claim “aah, it's just the
+universe's doing” and excuse our behaviours or let our brains and bodies rot.
+It's a choice, it's a perfectly valid choice, but from this standpoint, we're
+to a certain degree in control of said choice.
+
+So, the illusion (and useful heuristic) of ourselves having control arises when
+we place ourselves in our own shoes, one of those many subsystems, that
+experiences the world with some parts of the brain and makes decision with
+other parts, having those two connected.
+
+<!--
+Add clarification: “guilt is a Christian invention”
 -->
