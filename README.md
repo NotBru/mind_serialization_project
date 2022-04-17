@@ -121,8 +121,8 @@ the materialistic limitations.
 But then again, that's Jeremy we're talking about. You may not be able to
 predict the outcome of this decision by looking at their brain, but this
 decision is Jeremy's. If this decision were random, independent of Jeremy's
-identity, you wouldn't call it free will, would you? so, after all, Jeremy's
-can't act against its identity.
+identity, you wouldn't call it free will, would you? so, after all, Jeremy can't
+act against their identity.
 
 The worldview has simply gotten more complex (because of this soul agent) and
 potentially less predictable (where there unpredictable forces at play), but
