@@ -177,7 +177,7 @@ https://www.atheismandthecity.com/2016/12/the-argument-from-core-theory.html
 theory has the currently described axiom incorporated, it would follow. But for
 now I'd rather have the broadest possible axioms come first.
 
-### Consequence 4: Human morale is subjective
+### Consequence 4: Human morals are subjective
 
 #### From [axiom 3](#axiom-3-the-universe-can-be-explained-in-terms-of-subsystems-their-self-interaction-and-their-mutual-interaction)
 
@@ -189,7 +189,7 @@ But the whole deal is that even the complicated stuff is “just happening”.
 Whether we'd rather something didn't happen, say, we think badly of it... it's
 just gonna happen.
 
-#### On human morale
+#### On human morals
 
 So, you may not like a society where human sacrifices were naturalized, but
 there's no fundamental power or law forbiding those. You may, since it is
@@ -199,7 +199,7 @@ follow your moral understanding closer.
 That's what we all kinda do, actually. Since there's a good degree of agreement,
 we combine efforts to make majoritary moral understandings (as weighted by
 actual enforcing power) fulfilled. I indeed totally agree with this. But any
-claim to superiority of said morale is simply a misunderstanding of facts:
+claim to superiority of said morals is simply a misunderstanding of facts:
 they're “superior” simply in terms of being preferred by most people.
 
 Gross disagreements are fairly enlightening of this. Take abortion for instance.
