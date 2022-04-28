@@ -210,8 +210,38 @@ The way people define their morals is completely personal. Some people get
 together and agree on a common moral ground, which may then serve to coordinate
 efforts to enforce them through actual actions.
 
-Morals only have “true sustance” to the degree by which they are enforced by
-individuals, as physical (and societal) actors.
+You know how we used to think slavery was OK? and left handed people were evil
+or something? Let that sink in for a minute. Fucking left handedness. People
+judge men who wear dresses or who like dicks. They judge non-binary people for
+not falling into a dumb category we've made up or for, god forbid it, trying to
+have their identity respected...
+
+We're judging one another constantly, oftentimes very harshly, so this fact
+needs to be emphazised: Morals only have “true sustance” to the degree by which
+they are enforced by individuals, as physical (and social) beings.
+
+This subjectivity is one another reason for this project, actually. The
+axiomatization of my moral began as a very informal process when I decided I
+wanted to have a more robust approach to judgement. Throughout our whole history
+we find so many examples of morals that, between cultures and times, clash with
+each other. But I believe, as more basic needs got solved, people started to
+have time to think, and to care of each other. The driver of this is mere human
+empathy, hardcoded in our DNA through years of evolution.
+
+And, as subjective of a reason as “Iunno, it's just in my DNA” is, we can more
+or less take that as a guarantee. Unless we accidentally create a society of
+psychopaths, we can more or less foresee a future where basic needs get solved
+more and more (or we all go sink at the bottom of perdition). So I myself can
+take human empathy as a non-aesthetic driver, in the sense that it doesn't
+change a lot, and isn't quite subjected to historical accidents, in contrast
+with, I don't know, shaving?
+
+By reducing my morals to the smallest and broadest axiom set I can, my goal is
+to:
+1. Respect other people's liberty, in contrast with having narrow morals that
+   forbid other people of things.
+2. Resort to moral judgements that more or less aligns with the hypothetical
+   morals of a healthy society that has had time to care for sentient thingies.
 
 <!--
 ### 6. Axiom 3: Morals should be based on the actual consequences of the actions judged
