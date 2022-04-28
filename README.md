@@ -69,7 +69,7 @@ rationality. So... it needn't be completed.
 
 ## Beliefs
 
-### Axiom 1: There is a working mechanism to the universe that is unchangeable by any of its parts.
+### 1. Axiom 1: There is a working mechanism to the universe that is unchangeable by any of its parts.
 
 A good example of such a situation would be if the universe was completely
 defined by a Newtonian model. It would be defined by Newton's laws, say, “Force
@@ -86,9 +86,9 @@ change the fact that they do limit what we can say happens. We can't say a
 planet isn't orbiting the sun. We can't say dopamine doesn't do what we know it
 does do.
 
-### Consequence 2: Human behaviour is, fundamentally, outside of its control.
+### 2. Consequence 1: Human behaviour is, fundamentally, outside of its control.
 
-#### From [axiom 1](#axiom-1-there-is-a-working-mechanism-to-the-universe-that-is-unchangeable-by-any-of-its-parts)
+#### From [axiom 1](#1-axiom-1-there-is-a-working-mechanism-to-the-universe-that-is-unchangeable-by-any-of-its-parts)
 
 Whatever rules they be. Electrons do as electrons do, and there's no sense to
 claiming otherwise. And we, humans, aren't an exception. We may be complex, hard
@@ -153,7 +153,7 @@ Jeremy is in no control.
 Either Jeremy is Jeremy, and this defines a mechanism by which Jeremy abides, or
 Jeremy is a random force of the aether.
 
-### Axiom 3: The universe can be explained in terms of subsystems, their self interaction and their mutual interaction
+### 3. Axiom 2: The universe can be explained in terms of subsystems, their self interaction and their mutual interaction
 
 Let's take for example a universe with just a planet and an orbiting moon. This
 universe can be obviously divided into two mutually exclusive subsystems, the
@@ -177,43 +177,11 @@ https://www.atheismandthecity.com/2016/12/the-argument-from-core-theory.html
 theory has the currently described axiom incorporated, it would follow. But for
 now I'd rather have the broadest possible axioms come first.
 
-### Consequence 4: Human morals are subjective
+### 4. Consequence 2: There is a sense in which we do have control over ourselves
 
-#### From [axiom 3](#axiom-3-the-universe-can-be-explained-in-terms-of-subsystems-their-self-interaction-and-their-mutual-interaction)
+#### From [axiom 2](#3-axiom-2-the-universe-can-be-explained-in-terms-of-subsystems-their-self-interaction-and-their-mutual-interaction)
 
-What's important from the previous axiom is that things are happening and that's
-the most objective we can get. Planets orbit each other alright, and we can
-understand that's just happening. No more, no less.
-
-But the whole deal is that even the complicated stuff is “just happening”.
-Whether we'd rather something didn't happen, say, we think badly of it... it's
-just gonna happen.
-
-#### On human morals
-
-So, you may not like a society where human sacrifices were naturalized, but
-there's no fundamental power or law forbiding those. You may, since it is
-something that can happen, intervene in order for the rest of the world to
-follow your moral understanding closer.
-
-That's what we all kinda do, actually. Since there's a good degree of agreement,
-we combine efforts to make majoritary moral understandings (as weighted by
-actual enforcing power) fulfilled. I indeed totally agree with this. But any
-claim to superiority of said morals is simply a misunderstanding of facts:
-they're “superior” simply in terms of being preferred by most people.
-
-Gross disagreements are fairly enlightening of this. Take abortion for instance.
-Currently, Argentinian votes on its legality were more or less divided at 50/50,
-and you have very large pools of population either thinking it is morally right
-or it is morally wrong. Is any one of those “more correct” than the others?
-hardly. I have a preferred stance, but I cannot claim to draw this stance from
-any objective fact of nature.
-
-### Consequence 5: There is a sense in which we do have control over ourselves
-
-#### From [axiom 3](#axiom-3-the-universe-can-be-explained-in-terms-of-subsystems-their-self-interaction-and-their-mutual-interaction)
-
-Even though [consequence 2](#consequence-2-human-behaviour-is-fundamentally-outside-of-its-control)
+Even though [consequence 2](#2-consequence-1-human-behaviour-is-fundamentally-outside-of-its-control)
 clearly states that we are governed by rules that are above us, human experience
 features a notion of control. This comes from the fact that, since we experience
 the universe from within “the shell”, we don't actually know nor perceive the
@@ -231,7 +199,22 @@ we place ourselves in our own shoes, one of those many subsystems, that
 experiences the world with some parts of the brain and makes decision with
 other parts, having those two connected.
 
+### 5. Definition 1: Human morals
+
+We define a person's morals as a mechanism through which they determine the
+“desirability” of decisions and actions. We expect this desirability factor to
+correlate to the person's own decisions, though it needn't be this way.
+
+Do note that, as a consequence of this very definition, morals are subjective.
+The way people define their morals is completely personal. Some people get
+together and agree on a common moral ground, which may then serve to coordinate
+efforts to enforce them through actual actions.
+
+Morals only have “true sustance” to the degree by which they are enforced by
+individuals, as physical (and societal) actors.
+
 <!--
+### 6. Axiom 3: Morals should be based on the actual consequences of the actions judged
 Add clarification: “guilt is a Christian invention”
 Add axiom: “experimentally indistinguishable theories make no further
 contribution to the set
