@@ -69,7 +69,7 @@ rationality. So... it needn't be completed.
 
 ## Beliefs
 
-### 1. Axiom 1: There is a working mechanism to the universe that is
+### 1. Axiom 1: There is a working mechanism to the universe that is \
 unchangeable by any of its parts.
 
 A good example of such a situation would be if the universe was completely
